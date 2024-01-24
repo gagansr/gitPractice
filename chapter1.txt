@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Chapter 1 of project 
+=======
+Chapter 1 of project - Alient
+>>>>>>> alient
